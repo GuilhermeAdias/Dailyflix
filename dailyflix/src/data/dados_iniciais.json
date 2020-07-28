@@ -10,8 +10,8 @@
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Combinação Extremamente Poderosa Para Qualquer Programador (Factory + Injeção de Dependência)",
+          "url": "https://www.youtube.com/watch?v=uyOJ2jjBtBs"
         },
         {
           "titulo": "SEO com React",
@@ -52,6 +52,14 @@
       },
       "videos": [
         {
+          "titulo": "Design Patterns C# - Aprendendo Factory Method Pattern em .Net Core",
+          "url": "https://www.youtube.com/watch?v=b5ESG2pS94o"
+        },
+        {
+          "titulo": ".NET Core + Serverless parte 2: Dicas e Truques com Azure Functions 3.x",
+          "url": "https://www.youtube.com/watch?v=TauymifVCns"
+        },
+        {
           "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
           "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
         },
@@ -82,6 +90,18 @@
       },
       "videos": [
         {
+          "titulo": "Inteligência Artificial destruindo no dinossauro da Google! (Rede Neural)",
+          "url": "https://www.youtube.com/watch?v=NZlIYr1slAk"
+        },
+        {
+          "titulo": "Lembra Daquela I.A. Que Programava Sozinha? Então...",
+          "url": "https://www.youtube.com/watch?v=Cr89Oz0TWQM"
+        },
+        {
+          "titulo": "E Agora? Nova Inteligência Artificial Começou a Programar Sozinha",
+          "url": "https://www.youtube.com/watch?v=KdgKQoq1jk0"
+        },
+        {
           "titulo": "Teste de Turing",
           "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
         },
@@ -103,6 +123,22 @@
       "titulo": "Filmes",
       "cor": "orange",
       "videos": [
+        {
+          "titulo": "Star Wars: The Rise of Skywalker | Final Trailer",
+          "url": "https://www.youtube.com/watch?v=8Qn_spdM5Zg"
+        },
+        {
+          "titulo": "TENET - NEW TRAILER",
+          "url": "https://www.youtube.com/watch?v=L3pk_TBkihU"
+        },
+        {
+          "titulo": "CORINGA - Trailer Final",
+          "url": "https://www.youtube.com/watch?v=jfVTJm9NilA"
+        },
+        {
+          "titulo": "Marvel Studios' Avengers - Official Trailer",
+          "url": "https://www.youtube.com/watch?v=hA6hldpSTF8"
+        },
         {
           "titulo": "Interestellar",
           "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
@@ -129,6 +165,10 @@
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
+        {
+          "titulo": "Trailer de Halo infinite - XboxE3 2019",
+          "url": "https://www.youtube.com/watch?v=W2hbqp4M6h8"
+        },
         {
           "titulo": "Final Fantasy 7",
           "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
@@ -166,6 +206,10 @@
         {
           "titulo": "Faculdade",
           "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Programadores Altamente Eficazes: 7 Hábitos",
+          "url": "https://www.youtube.com/watch?v=cJx0k_ln1-g"
         },
         {
           "titulo": "Frameworks",

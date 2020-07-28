@@ -1,0 +1,30 @@
+-> Apostila da Imersão React - atualizada diariamente :
+https://drive.google.com/file/d/1Y6W-rGJgKYek2kRjIqg9Pn-gWPv4KcGO/view?usp=sharing
+
+-> Download dos components da Home
+https://github.com/imersao-alura/arquivos-extras-imersao-react/raw/master/componentes-extras-aula01.zip
+
+-> CSSs que o Mario copia magicamente durante a aula:
+https://gist.github.com/omariosouto/19dafd5ca155c46b3dcb31df89cfba55
+
+-> Pegando projeto do Figma:
+https://www.youtube.com/watch?v=-TaHyW4nMtg&feature=youtu.be
+
+-> Download do layout da AluraFlix:
+https://drive.google.com/file/d/1ml7tw1x0KLYDUKIIsHu6SRZeFZnnmmV_/view?usp=sharing
+
+-> Google Fonts:
+https://fonts.google.com/
+
+-> VSCode Styled Coponents - melhora sintaxe do CSS in JS:
+https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components
+
+-> Instale o NodeJS:
+https://nodejs.org/pt-br/
+
+
+
+
+
+
+
